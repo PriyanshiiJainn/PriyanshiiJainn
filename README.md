@@ -7,6 +7,7 @@ Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 
+
 Frontend:
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
@@ -15,15 +16,16 @@ Frontend:
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 ![Astro](https://img.shields.io/badge/Astro-black?logo=astro)
 
+
 Backend:
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=jsonwebtokens)
-![NextAuth](https://img.shields.io/badge/NextAuth-black)
 ![Zod](https://img.shields.io/badge/Zod-blue)
 ![CORS](https://img.shields.io/badge/CORS-grey)
-![Helmet](https://img.shields.io/badge/Helmet-black)
+
+
 
 Database & Infra:
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
@@ -31,14 +33,16 @@ Database & Infra:
 ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-red?logo=redis)
 ![NeonDB](https://img.shields.io/badge/NeonDB-green)
-![Upstash](https://img.shields.io/badge/Upstash-black)
+
+
 
 Devops & Other tools:
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
-![Turborepo](https://img.shields.io/badge/Turborepo-black)
 ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)
+
+
 
 Design and UI:
 ![Figma](https://img.shields.io/badge/Figma-purple?logo=figma)
@@ -46,6 +50,8 @@ Design and UI:
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-green)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black)
 ![GSAP](https://img.shields.io/badge/GSAP-green)
+
+
 
 AI & Other:
 ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
@@ -56,4 +62,4 @@ AI & Other:
 ![OpenRouterAI](https://img.shields.io/badge/OpenRouterAI-black)
 ![n8n](https://img.shields.io/badge/n8n-red)
 ![SEO](https://img.shields.io/badge/SEO-green)
-![Cursor](https://img.shields.io/badge/Cursor-black)
+
