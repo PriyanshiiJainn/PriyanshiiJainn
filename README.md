@@ -1,5 +1,8 @@
 Hi there, I'm a Full Stack Engineer | Systems + AI | Building scalable products
 
+I have done projects in frontend, backend, Full-stack, UI/UX designing, Graphic Designing.
+Open for growth oppertunies to apply my experience and build creative meaningful products.
+
 Languages:
 ![C](https://img.shields.io/badge/C-blue?logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
